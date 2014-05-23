@@ -1,4 +1,4 @@
 NeuralNetwork
 =============
 
-Backpropagation
+Backpropagation using stochastic gradient descent
